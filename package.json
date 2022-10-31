@@ -1,0 +1,19 @@
+{
+  "name": "react-native-video-editor",
+  "version": "0.2.0",
+  "description": "",
+  "repository": "MostWantIT/react-native-video-editor",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "peerDependencies": {
+   "react": "*",
+    "react-native": "*"
+  }
+}
